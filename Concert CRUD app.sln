@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Concert CRUD app", "Concert CRUD app.csproj", "{75BB8208-B302-4071-94E5-2CF7897ADA6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{83335C06-FBD0-4AFB-B1AD-6A61A8A4FC43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75BB8208-B302-4071-94E5-2CF7897ADA6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75BB8208-B302-4071-94E5-2CF7897ADA6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75BB8208-B302-4071-94E5-2CF7897ADA6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75BB8208-B302-4071-94E5-2CF7897ADA6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83335C06-FBD0-4AFB-B1AD-6A61A8A4FC43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83335C06-FBD0-4AFB-B1AD-6A61A8A4FC43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83335C06-FBD0-4AFB-B1AD-6A61A8A4FC43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83335C06-FBD0-4AFB-B1AD-6A61A8A4FC43}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC7FC3D6-8BC8-4267-8D64-7AD860C1C09D}
+	EndGlobalSection
+EndGlobal
